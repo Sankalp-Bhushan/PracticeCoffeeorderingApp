@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My ApplicationInputOutput</string>
+    <string name="TOPPINGS">सामग्री</string>
+    <string name="Whipped_Cream">क्रीम</string>
+    <string name="Chocolate">चॉकलेट</string>
+    <string name="QUANTITY">मात्रा</string>
+    <string name="PRICE">मूल्य</string>
+    <string name="order">भेंजे</string>
+</resources>

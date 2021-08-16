@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">My ApplicationInputOutput</string>
+    <!-- >string between <xliff>  tags wont change after changing the language -->
+    <string name= "Name"><xliff:g id = "album_description_view" examlpe="Name">Name</xliff:g></string>
+    <!-- Header List For the Topings [CHAR LIMIT = 20] -->
+    <string name="TOPPINGS">TOPPINGS</string>
+    <string name="Whipped_Cream">Whipped Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="QUANTITY">QUANTITY</string>
+    <string name="PRICE">PRICE</string>
+    <string name="order">order</string>
+
+</resources>
